@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Linked List
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
