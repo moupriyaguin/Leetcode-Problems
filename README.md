@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
