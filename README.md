@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0135-candy) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
