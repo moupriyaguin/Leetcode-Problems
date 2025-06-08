@@ -14,17 +14,10 @@ class Solution {
         int n = nums.length;
         k = k % n;
         reverse(nums,0,n-k-1);
-        for(int i=0;i<n;i++)
-        System.out.print(nums[i]);
-        System.out.println();
         reverse(nums,n-k,n-1);
-        for(int i=0;i<n;i++)
-        System.out.print(nums[i]);
-        System.out.println();
         reverse(nums,0,n-1);
-        for(int i=0;i<n;i++)
-        System.out.print(nums[i]);
-        System.out.println();
+
+
         // int[] temp = new int[n-k];
         // for(int i=0;i<(n-k);i++){
         //     temp[i] = nums[i];
