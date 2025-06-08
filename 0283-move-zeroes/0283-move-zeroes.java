@@ -17,10 +17,8 @@ class Solution {
             if (nums[j] != 0) {
                 swap(nums, i, j);
                 i++;
-                j++;
-            } else {
-                j++;
-            }
+            } 
+            j++;
         }
     }
 }
