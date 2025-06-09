@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0268-missing-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
@@ -109,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
