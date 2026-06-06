@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/moupriyaguin/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
